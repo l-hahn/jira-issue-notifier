@@ -1,5 +1,5 @@
 # jira-issue-notifier
-Issue Notification Skript with audio output and GUI in order to inform new issues created within a Jira-Serice-Desk/-Managment.
+Issue notification script with audio output and GUI in order to inform about newly created issues/tickets within a Jira-Service-Desk/-Managment.
 
 This is more like a template, as e.g. Customer-Request-Type of Jira-Service Management are currently hardcoded.
 This could be changed in future by automatically gaining those Request-Types.
